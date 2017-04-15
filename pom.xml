@@ -13,6 +13,13 @@
       <url>http://www.eclipse.org/legal/epl-v10.html</url>
     </license>
   </licenses>
+  <scm>
+    <connection>scm:git:git://github.com/kapware/cljs-tdd.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/kapware/cljs-tdd.git</developerConnection>
+    <tag>7deb7e09fe765e8ed3378c084fcc9cb395bde392
+</tag>
+    <url>https://github.com/kapware/cljs-tdd</url>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <testSourceDirectory>test</testSourceDirectory>
